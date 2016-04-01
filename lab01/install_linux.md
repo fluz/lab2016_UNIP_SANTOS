@@ -18,3 +18,17 @@ Será descrito o passo a passo da criação da máquina linux:
 5. Crie um disco virtual de 8Gb de tamanho Dinâmico - VDI (next)
 6. Finalize a criação.
 
+## Realizar a instalação do Slitaz dentro da máquina linux no VirtualBox
+
+### Baixar o Slitaz
+
+ Baixe a versão desejada no link http://www.slitaz.org/en/get/
+
+### Execução do Slitaz (modo live cd)
+
+1. Carregue a iso na maquina virtual
+2. Inicie a máquina virtual
+3. Configure o ambiente de acordo com a sua máquina
+4. Voia la
+ 
+
