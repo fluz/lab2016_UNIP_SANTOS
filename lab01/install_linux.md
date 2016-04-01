@@ -30,5 +30,14 @@ Será descrito o passo a passo da criação da máquina linux:
 2. Inicie a máquina virtual
 3. Configure o ambiente de acordo com a sua máquina
 4. Voia la
+
+### Instalação do Slitaz na máquina virtual.
+
+1. Abra o Slitaz panel (user root, senha root)
+2. Va em Install -> Install Slitaz
+3. Abra o Gparted
+4. Crie uma nova tabela de partição
+5. Crie uma nova partição com o tamanho total e usando o formato ext3
+6. 
  
 
